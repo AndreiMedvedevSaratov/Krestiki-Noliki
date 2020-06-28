@@ -55,7 +55,9 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  margin: 0px;
+  margin: 0px auto;
+  width: 100%;
+  max-width: 270px;
 }
 #app {
   margin: 0 auto;
