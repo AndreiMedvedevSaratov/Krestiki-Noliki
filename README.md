@@ -11,3 +11,20 @@ Deploy: https://krestiki-noliki.netlify.app/
 For any additional information, feel free to contact with me by:
 Tel: +7-917-215-19-68
 e-mail: andreiok@gmail.com
+
+____________________________________________________________________________________________
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
